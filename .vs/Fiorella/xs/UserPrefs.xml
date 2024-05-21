@@ -1,0 +1,56 @@
+﻿<Properties StartupConfiguration="{959D9549-42FB-4248-A391-1B6D5E20A4A2}|Default">
+  <MonoDevelop.Ide.ItemProperties.Fiorella PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Fiorella/Services/SocialService.cs">
+    <Files>
+      <File FileName="Fiorella/wwwroot/admin/assets/js/archive.js" Line="55" Column="61" />
+      <File FileName="Fiorella/Areas/Admin/Controllers/ArchiveController.cs" Line="18" Column="22" />
+      <File FileName="Fiorella/Areas/Admin/Controllers/CategoryController.cs" Line="120" Column="1" />
+      <File FileName="Fiorella/Areas/Admin/Views/Archive/Index.cshtml" Line="19" Column="52" />
+      <File FileName="Fiorella/Areas/Admin/Views/Shared/_Layout.cshtml" Line="74" Column="77" />
+      <File FileName="Fiorella/ViewComponents/FooterViewComponent.cs" Line="26" Column="59" />
+      <File FileName="Fiorella/Services/Interfaces/ISocialService.cs" Line="8" Column="29" />
+      <File FileName="Fiorella/Services/SocialService.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Fiorella" expanded="True">
+            <Node name="Fiorella" expanded="True">
+              <Node name="Areas" expanded="True">
+                <Node name="Admin" expanded="True">
+                  <Node name="Controllers" expanded="True" />
+                  <Node name="Views" expanded="True">
+                    <Node name="Archive" expanded="True" />
+                    <Node name="Shared" expanded="True" />
+                    <Node name="Slider" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="Services" expanded="True">
+                <Node name="Interfaces" expanded="True" />
+                <Node name="SocialService.cs" selected="True" />
+              </Node>
+              <Node name="ViewComponents" expanded="True" />
+              <Node name="wwwroot" expanded="True">
+                <Node name="admin" expanded="True">
+                  <Node name="assets" expanded="True">
+                    <Node name="js" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/Areas/Admin/Controllers/BlogController.cs" relfile="Fiorella/Areas/Admin/Controllers/BlogController.cs" line="137" column="1" />
+      <Breakpoint file="/Users/fatimagaykhanova/Desktop/Fiorella/Fiorella/Areas/Admin/Controllers/CategoryController.cs" relfile="Fiorella/Areas/Admin/Controllers/CategoryController.cs" line="126" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
